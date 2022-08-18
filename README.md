@@ -1,7 +1,7 @@
+<img src="https://i.ibb.co/bHRGmyj/Overlay.jpg" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Muhammad Fahru</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
-
-<img src="https://i.ibb.co/bHRGmyj/Overlay.jpg" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfahru&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfahru" /> </p>
 
