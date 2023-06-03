@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfahru&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfahru" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker and Flutter**
 
 - 💬 Ask me about **PHP and Javascript**
 
