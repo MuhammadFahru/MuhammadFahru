@@ -5,8 +5,9 @@
 
 <center>
   <img src="https://komarev.com/ghpvc/?username=muhammadfahru&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfahru" />
-  [![wakatime](https://wakatime.com/badge/user/1683872f-9646-4b9f-ac26-6ccc7946147e.svg)](https://wakatime.com/@1683872f-9646-4b9f-ac26-6ccc7946147e)
 </center>
+
+[![wakatime](https://wakatime.com/badge/user/1683872f-9646-4b9f-ac26-6ccc7946147e.svg)](https://wakatime.com/@1683872f-9646-4b9f-ac26-6ccc7946147e)
 
 - 🌱 I’m currently learning **Docker and Flutter**
 
