@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahru Rozi</h1>
 <h3 align="center">A passionate software developer from Indonesia</h3>
 
-<p align="center">
+<center>
   <img src="https://komarev.com/ghpvc/?username=muhammadfahru&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfahru" />
   [![wakatime](https://wakatime.com/badge/user/1683872f-9646-4b9f-ac26-6ccc7946147e.svg)](https://wakatime.com/@1683872f-9646-4b9f-ac26-6ccc7946147e)
-</p>
+</center>
 
 - 🌱 I’m currently learning **Docker and Flutter**
 
